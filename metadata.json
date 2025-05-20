@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Investment Signal Agent",
+  "description": "An AI-powered agent that provides hypothetical daily buy/sell signals, target prices, and reasoning for NASDAQ stocks using Gemini API. For illustrative and educational purposes only, not financial advice."
+}
+    
